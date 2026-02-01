@@ -2,6 +2,7 @@
 // Optional helper: creates a tiny sample level in code if you don't want to author ScriptableObjects yet.
 // Drop it on an empty GameObject, press Play, it will create a LevelData instance in memory and spawn it.
 
+using Core.Level;
 using Gameplay;
 using UnityEngine;
 
